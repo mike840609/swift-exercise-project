@@ -1,6 +1,9 @@
 reated by https://www.toptal.com/developers/gitignore/api/swift,xcode,swiftpackagemanager,swiftpm
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift,xcode,swiftpackagemanager,swiftpm
 
+### Google ###
+GoogleService-Info
+Info
 
 
 .DS_Store 
