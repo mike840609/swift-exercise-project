@@ -1,5 +1,5 @@
-reated by https://www.toptal.com/developers/gitignore/api/swiftpackagemanager,swift
-# Edit at https://www.toptal.com/developers/gitignore?templates=swiftpackagemanager,swift
+reated by https://www.toptal.com/developers/gitignore/api/swift,xcode,swiftpackagemanager,swiftpm
+# Edit at https://www.toptal.com/developers/gitignore?templates=swift,xcode,swiftpackagemanager,swiftpm
 
 ### Swift ###
 # Xcode
@@ -90,16 +90,13 @@ Packages
 xcuserdata
 *.xcodeproj
 
-### Google Firebase ###
-GoogleService-Info
+
+### SwiftPM ###
+
 
 ### Xcode ###
-## User settings
-xcuserdata/
 
 ## Xcode 8 and earlier
-*.xcscmblueprint
-*.xccheckout
 
 ### Xcode Patch ###
 *.xcodeproj/*
@@ -110,6 +107,4 @@ xcuserdata/
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
-# End of https://www.toptal.com/developers/gitignore/api/xcode
-
-# End of https://www.toptal.com/developers/gitignore/api/swiftpackagemanager,swift
+# End of https://www.toptal.com/developers/gitignore/api/swift,xcode,swiftpackagemanager,swiftpm
