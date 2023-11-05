@@ -1,6 +1,10 @@
 reated by https://www.toptal.com/developers/gitignore/api/swift,xcode,swiftpackagemanager,swiftpm
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift,xcode,swiftpackagemanager,swiftpm
 
+
+
+.DS_Store 
+
 ### Swift ###
 # Xcode
 #
